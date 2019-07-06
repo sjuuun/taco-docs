@@ -23,7 +23,14 @@ Welcome to taco documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Sub-project
+
+   tacoplay/kubespray.rst
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: TACO 구조 및 기술
    :glob:
 
